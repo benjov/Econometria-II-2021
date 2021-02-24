@@ -1,5 +1,5 @@
 # Econometria-II-2021
-Curso de EConometría II, FE-UNAM
+Curso de Econometría II, FE-UNAM
 
 ## Temario
 
